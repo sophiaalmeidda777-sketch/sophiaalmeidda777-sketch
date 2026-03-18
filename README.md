@@ -16,8 +16,10 @@
 
 ## 💖 Sobre mim
 🎨 Desde pequena, sempre tive uma grande paixão pela arte  
-✏️ Amo desenhar, principalmente **desenhos animados**  
-🌌 Gosto de imaginar e criar novos mundos cheios de criatividade  
+
+✏️ Amo desenhar, meu estilo é tanto **anime** e **cartoon** 
+
+🌌 Gosto de criar histórias fictícias e quero no futuro poder mostrar oque eu criei junto com meus amigos   
 
 ---
 
