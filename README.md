@@ -1,6 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Sophia+Almeida&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=30&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Sophia!;Estudante+de+TI;Artista+🎨;Criando+meu+universo+✨🌌" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="400px">
