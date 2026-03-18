@@ -73,6 +73,7 @@
 ## 📫 Contato
 
 📧 sophiaalmeidda777@gmail.com  
+💼 LinkedIn:https://www.linkedin.com/in/sophia-almeida-021b283b0/
 
 ---
 
