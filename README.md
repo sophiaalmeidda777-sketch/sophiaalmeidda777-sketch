@@ -33,7 +33,9 @@
 
 🛠️ Também utilizo:
 - VM VirtualBox  
-- Flowgorithm  
+- Flowgorithm
+  
+
 
 ---
 
@@ -72,6 +74,9 @@
 
 📧 sophiaalmeidda777@gmail.com  
 💼 LinkedIn:https://www.linkedin.com/in/sophia-almeida-021b283b0/
+
+![images](https://github.com/user-attachments/assets/1be825e3-66e5-45ba-85ed-eb919acfac2c)
+
 
 ---
 
