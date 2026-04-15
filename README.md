@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="400px">
+  <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhiajBtcDllNzM0MGhiZGY4MTdhcW1jZzZqbWV3aGo0bnFhb3lwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVrgJrUTp0z9fFtA9B/giphy.gif width="400px">
 </p>
 
 <h1 align="center">🌌 Bem-vindo ao meu universo!</h1>
